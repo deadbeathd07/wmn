@@ -1,0 +1,103 @@
+{
+	"product": {
+		"name": "Women calendar"
+	},
+	"terms_of_use": {
+		"description": "Our company is serious about confidentiality of information. The data collected in the mobile application, will only be used for the purposes set out in the Privacy Policy. Be sure to read the Public Offer and Privacy Policy below.",
+		"offer": "Public Offer",
+		"policy": "Privacy Policy"
+	},
+	"settings": {
+		"questions": "Resubmit your answers",
+		"components": {
+			"picker": {
+				"lang": "Change language",
+				"en": "en",
+				"es": "es"
+			}
+		},
+		"theme": {
+			"light": "Light theme",
+			"dark": "Dark theme"
+		}
+	},
+	"plan": {
+		"title": "Premium version",
+		"message": "We invite you to join us",
+		"basic": "Monthly",
+		"premium": "Annually"
+	},
+	"buttons": {
+		"accept": "I agree/continue",
+		"skip": "Skip",
+		"go_back": "Go back",
+		"save": "Save",
+		"confirm": "Confirm",
+		"cancel": "Cancel",
+		"period_started": "Period started",
+		"period_finished": "Period finished",
+		"change_period_dates": "Change dates",
+		"add_note": "Add note",
+		"plan_free": "Try free 14 days"
+	},
+	"messages": {
+		"greeting": "Welcome!",
+		"congratulation": "Happy Birthday!",
+		"soon": "Coming soon!"
+	},
+	"authorization": {
+		"title": "Continue with :"
+	},
+	"user_data": {
+		"name": "Name",
+		"b_day": "Date of birth"
+	},
+	"routes": {
+		"HomeView": "Home",
+		"CalendarView": "Calendar",
+		"NotesView": "Notes",
+		"NoteView": "Note",
+		"MoodView": "Mood",
+		"PillsView": "Add pills",
+		"SexualActView": "Sexual act",
+		"SymptomsView": "Symptoms",
+		"TemperatureView": "Temperature",
+		"WaterView": "Drink water",
+		"WeightView": "Enter your weight",
+		"SettingsView": "Settings",
+		"AuthorizationView": "Authorization",
+		"OfferView": "Public offer",
+		"PolicyView": "Privacy policy",
+		"QuestionsView": "Questions"
+	},
+	"page_links": {
+		"NoteView": "Note",
+		"MoodView": "Mood",
+		"PillsView": "Pills",
+		"SexualActView": "Sexual act",
+		"SymptomsView": "Symptoms",
+		"TemperatureView": "Temperature",
+		"WaterView": "Drinking water",
+		"WeightView": "Weight"
+	},
+	"placeholders": {
+		"selectNum": "Select number of days",
+		"selectDate": "Select date",
+		"entryName": "Enter your name",
+		"requiredName": "Name is required",
+		"required_b_day": "Date of birth is required",
+		"required_cycle": "Cycle duration is required",
+		"required_period": "Period duration is required",
+		"required_periodDate": "Last period date is required"
+	},
+	"SexualActView": {
+		"protection": "Protection",
+		"condom": "Protected contact",
+		"no_condom": "Unprotected contact",
+		"orgasm": "Orgasm",
+		"buttons": {
+			"yes": "Yes",
+			"no": "No"
+		}
+	}
+}

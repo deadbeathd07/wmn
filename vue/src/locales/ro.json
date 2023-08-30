@@ -1,0 +1,103 @@
+{
+	"product": {
+		"name": "Calendarul femeilor"
+	},
+	"terms_of_use": {
+		"description": "Compania noastră este serios pregătită confidențialitatea informațiilor. Date colectate într-un addendum mobil, numai pentru scopuri vor fi victorioși, Contribuții din Politica de confidențialitate. Obov'yazkovo a citit oferta publică și politica de confidențialitate de mai jos.",
+		"offer": "Oferta publica",
+		"policy": "Politica de confidențialitate"
+	},
+	"settings": {
+		"questions": "Retrimiteți răspunsurile dvs",
+		"components": {
+			"picker": {
+				"lang": "Schimbați limba",
+				"en": "en",
+				"es": "es"
+			}
+		},
+		"theme": {
+			"light": "Tema ușoară",
+			"dark": "Tema întunecată"
+		}
+	},
+	"plan": {
+		"title": "Versiune premium",
+		"message": "Te invitam a te alatura pentru noi",
+		"basic": "Lunar",
+		"premium": "Anual"
+	},
+	"buttons": {
+		"accept": "Sunt de acord/continuu",
+		"skip": "Ocolire",
+		"go_back": "Reveni",
+		"save": "Salvați",
+		"confirm": "Confirma",
+		"cancel": "Anulare",
+		"period_started": "A început perioada",
+		"period_finished": "Perioada încheiată",
+		"change_period_dates": "Schimbați datele",
+		"add_note": "Adăuga Notă",
+		"plan_free": "Încearcă pe gratis 14 zile"
+	},
+	"messages": {
+		"greeting": "Bine ati venit!",
+		"congratulation": "La mulți ani!",
+		"soon": "In curand!"
+	},
+	"authorization": {
+		"title": "Continuă cu:"
+	},
+	"user_data": {
+		"name": "Nume",
+		"b_day": "Data nașterii"
+	},
+	"routes": {
+		"HomeView": "Acasă",
+		"CalendarView": "Calendar",
+		"NotesView": "Note",
+		"NoteView": "Notă",
+		"MoodView": "Starea de spirit",
+		"PillsView": "Adăuga Tablete",
+		"SexualActView": "Actul sexual",
+		"SymptomsView": "Simptome",
+		"TemperatureView": "Temperatura",
+		"WaterView": "Bea apă",
+		"WeightView": "Specificați greutatea",
+		"SettingsView": "Setări",
+		"AuthorizationView": "Autorizare",
+		"OfferView": "Oferta publica",
+		"PolicyView": "Politica de confidențialitate",
+		"QuestionsView": "Întrebări"
+	},
+	"page_links": {
+		"NoteView": "Notă",
+		"MoodView": "Starea de spirit",
+		"PillsView": "Tablete",
+		"SexualActView": "Actul sexual",
+		"SymptomsView": "Simptome",
+		"TemperatureView": "Temperatura",
+		"WaterView": "Bea apă",
+		"WeightView": "Greutate"
+	},
+	"placeholders": {
+		"selectNum": "Selectați numărul de zile",
+		"selectDate": "Selectați data",
+		"entryName": "Introdu numele tau",
+		"requiredName": "Numele este obligatoriu",
+		"required_b_day": "Data nașterii este obligatorie",
+		"required_cycle": "Durata ciclului este necesară",
+		"required_period": "Durata perioadei este necesară",
+		"required_periodDate": "Este necesară data ultimei perioade"
+	},
+	"SexualActView": {
+		"protection": "Protecţie",
+		"condom": "Protejat a lua legatura",
+		"no_condom": "Neprotejat a lua legatura",
+		"orgasm": "Orgasm",
+		"buttons": {
+			"yes": "Da",
+			"no": "Nie"
+		}
+	}
+}

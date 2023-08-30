@@ -1,0 +1,103 @@
+{
+	"product": {
+		"name": "Kalendarz kobiet"
+	},
+	"terms_of_use": {
+		"description": "Nasza firma poważnie traktuje poufność informacji. Dane zbierane w aplikacji mobilnej, będą wykorzystywane wyłącznie do celów określone w Polityce Prywatności. Koniecznie zapoznaj się z Ofertą Publiczną i Polityką Prywatności poniżej.",
+		"offer": "Oferta publiczna",
+		"policy": "Polityka prywatności"
+	},
+	"settings": {
+		"questions": "Prześlij ponownie swoje odpowiedzi",
+		"components": {
+			"picker": {
+				"lang": "Zmień język",
+				"en": "en",
+				"es": "es"
+			}
+		},
+		"theme": {
+			"light": "Lekki schemat",
+			"dark": "Ciemny schemat"
+		}
+	},
+	"plan": {
+		"title": "Wersja premium",
+		"message": "Zapraszamy Cie Przystąp do nas",
+		"basic": "Miesięczny",
+		"premium": "Rocznie"
+	},
+	"buttons": {
+		"accept": "Zgadzam się/kontynuuj",
+		"skip": "Pominąć",
+		"go_back": "Wróć",
+		"save": "Ratować",
+		"confirm": "Potwierdzać",
+		"cancel": "Anulować",
+		"period_started": "Rozpoczął się okres",
+		"period_finished": "Okres zakończony",
+		"change_period_dates": "Zmień daty",
+		"add_note": "Dodaj notatkę",
+		"plan_free": "Wypróbuj za darmo 14 dni"
+	},
+	"messages": {
+		"greeting": "Witamy!",
+		"congratulation": "Wszystkiego najlepszego z okazji urodzin!",
+		"soon": "Wkrótce!"
+	},
+	"authorization": {
+		"title": "Kontynuować z:"
+	},
+	"user_data": {
+		"name": "Nazwa",
+		"b_day": "Data urodzenia"
+	},
+	"routes": {
+		"HomeView": "Dom",
+		"CalendarView": "Kalendarz",
+		"NotesView": "Notatki",
+		"NoteView": "Uwaga",
+		"MoodView": "Nastrój",
+		"PillsView": "Dodać tabletki",
+		"SexualActView": "Stosunek seksualny",
+		"SymptomsView": "Objawy",
+		"TemperatureView": "Temperatura",
+		"WaterView": "Pij wodę",
+		"WeightView": "Wpisz swoją wagę",
+		"SettingsView": "Ustawienia",
+		"AuthorizationView": "Upoważnienie",
+		"OfferView": "Oferta publiczna",
+		"PolicyView": "Polityka prywatności",
+		"QuestionsView": "Pytania"
+	},
+	"page_links": {
+		"NoteView": "Uwaga",
+		"MoodView": "Nastrój",
+		"PillsView": "Tabletki",
+		"SexualActView": "Stosunek seksualny",
+		"SymptomsView": "Objawy",
+		"TemperatureView": "Temperatura",
+		"WaterView": "Pij wodę",
+		"WeightView": "Waga"
+	},
+	"placeholders": {
+		"selectNum": "Wybierz liczbę dni",
+		"selectDate": "Wybierz datę",
+		"entryName": "Wpisz swoje imię",
+		"requiredName": "Imie jest wymagane",
+		"required_b_day": "Data urodzenia jest wymagana",
+		"required_cycle": "Czas trwania cyklu jest wymagany",
+		"required_period": "Czas trwania okresu jest wymagany",
+		"required_periodDate": "Data ostatniego okresu jest wymagana"
+	},
+	"SexualActView": {
+		"protection": "Ochrona",
+		"condom": "Chroniony kontakt",
+		"no_condom": "Bezbronny kontakt",
+		"orgasm": "Orgazm",
+		"buttons": {
+			"yes": "Tak",
+			"no": "Nie"
+		}
+	}
+}

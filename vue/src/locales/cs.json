@@ -1,0 +1,103 @@
+{
+	"product": {
+		"name": "Kalendář pro ženy"
+	},
+	"terms_of_use": {
+		"description": "Naše společnost to myslí vážně důvěrnost informací. Údaje shromážděné v mobilní aplikaci, budou použity pouze pro účely uvedené v Zásadách ochrany osobních údajů. Nezapomeňte si přečíst níže uvedené zásady veřejné nabídky a ochrany osobních údajů.",
+		"offer": "Veřejná nabídka",
+		"policy": "Zásady ochrany osobních údajů"
+	},
+	"settings": {
+		"questions": "Znovu odešlete své odpovědi",
+		"components": {
+			"picker": {
+				"lang": "Změnit jazyk",
+				"en": "en",
+				"es": "es"
+			}
+		},
+		"theme": {
+			"light": "Světlé téma",
+			"dark": "Tmavé téma"
+		}
+	},
+	"plan": {
+		"title": "Prémiová verze",
+		"message": "Zveme vás připojit nám",
+		"basic": "Měsíční",
+		"premium": "Každoročně"
+	},
+	"buttons": {
+		"accept": "Souhlasím/pokračuji",
+		"skip": "Přeskočit",
+		"go_back": "Zadní",
+		"save": "Uložit",
+		"confirm": "Potvrdit",
+		"cancel": "Zrušit",
+		"period_started": "Období začalo",
+		"period_finished": "Období skončilo",
+		"change_period_dates": "Změňte data",
+		"add_note": "Přidat Poznámka",
+		"plan_free": "Zkus zadarmo 14 dní"
+	},
+	"messages": {
+		"greeting": "Vítejte!",
+		"congratulation": "Všechno nejlepší k narozeninám!",
+		"soon": "Již brzy!"
+	},
+	"authorization": {
+		"title": "Pokračovat s :"
+	},
+	"user_data": {
+		"name": "Název",
+		"b_day": "Datum narození"
+	},
+	"routes": {
+		"HomeView": "Domov",
+		"CalendarView": "Kalendář",
+		"NotesView": "Poznámky",
+		"NoteView": "Poznámka",
+		"MoodView": "Nálada",
+		"PillsView": "Přidat tablety",
+		"SexualActView": "Pohlavní styk",
+		"SymptomsView": "Příznaky",
+		"TemperatureView": "Teplota",
+		"WaterView": "Pít vodu",
+		"WeightView": "Zadejte svou váhu",
+		"SettingsView": "Nastavení",
+		"AuthorizationView": "Oprávnění",
+		"OfferView": "Veřejná nabídka",
+		"PolicyView": "Zásady ochrany osobních údajů",
+		"QuestionsView": "Otázky"
+	},
+	"page_links": {
+		"NoteView": "Poznámka",
+		"MoodView": "Nálada",
+		"PillsView": "Tablety",
+		"SexualActView": "Pohlavní styk",
+		"SymptomsView": "Příznaky",
+		"TemperatureView": "Teplota",
+		"WaterView": "Pít vodu",
+		"WeightView": "Váha"
+	},
+	"placeholders": {
+		"selectNum": "Vyberte počet dní",
+		"selectDate": "Vyberte datum",
+		"entryName": "Zadejte své jméno",
+		"requiredName": "Jméno je povinné",
+		"required_b_day": "Datum narození je povinné",
+		"required_cycle": "Je vyžadována délka cyklu",
+		"required_period": "Doba trvání období je povinná",
+		"required_periodDate": "Datum posledního období je povinné"
+	},
+	"SexualActView": {
+		"protection": "Ochrana",
+		"condom": "Chráněný Kontakt",
+		"no_condom": "Nechráněný Kontakt",
+		"orgasm": "Orgasmus",
+		"buttons": {
+			"yes": "Ano",
+			"no": "Ne"
+		}
+	}
+}

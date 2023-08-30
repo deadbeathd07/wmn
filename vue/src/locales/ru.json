@@ -1,0 +1,104 @@
+{
+	"product": {
+		"name": "Женский календарь"
+	},
+	"terms_of_use": {
+		"description": "Наша компания серьезно относится к конфиденциальности информации. Данные, собранные в мобильном приложении, будут использоваться только для целей, изложенных в Политике конфиденциальности. Обязательно изучите Публичную оферту и Политику конфиденциальности ниже.",
+		"offer": "Публичная оферта",
+		"policy": "Политика конфиденциальности"
+	},
+	"settings": {
+		"questions": "Изменить личные данные",
+		"components": {
+			"picker": {
+				"lang": "Изменить язык",
+				"en": "en",
+				"es": "es"
+			}
+		},
+		"theme": {
+			"light": "Светлая тема",
+			"dark": "Темная тема"
+		}
+	},
+	"plan": {
+		"title": "Премиум версия",
+		"message": "Приглашаем присоединиться к нам",
+		"basic": "Ежемесячно",
+		"premium": "Ежегодно"
+	},
+	"buttons": {
+		"accept": "Соглашаюсь/продолжить",
+		"skip": "Пропустить",
+		"go_back": "Назад",
+		"save": "Сохранить",
+		"confirm": "Принять",
+		"cancel": "Отмена",
+		"period_started": "Начало периода",
+		"period_finished": "Конец периода",
+		"change_period_dates": "Изменить даты",
+		"add_note": "Добавить заметку",
+		"plan_free": "Испытать бесплатно 14 дней"
+	},
+	"messages": {
+		"greeting": "Добро пожаловать!",
+		"congratulation": "С Днем Рождения!",
+		"soon": "Скоро!"
+	},
+	"authorization": {
+		"title": "Продолжить с:"
+	},
+	"user_data": {
+		"name": "Имя",
+		"b_day": "Дата рождения"
+	},
+
+	"routes": {
+		"HomeView": "Главная",
+		"CalendarView": "Календарь",
+		"NotesView": "Заметки",
+		"NoteView": "Заметка",
+		"MoodView": "Настроение",
+		"PillsView": "Добавить таблетки",
+		"SexualActView": "Половой акт",
+		"SymptomsView": "Симптомы",
+		"TemperatureView": "Температура",
+		"WaterView": "Пейте воду",
+		"WeightView": "Укажите ваш вес",
+		"SettingsView": "Настройки",
+		"AuthorizationView": "Авторизация",
+		"OfferView": "Публичная оферта",
+		"PolicyView": "Политика конфиденциальности",
+		"QuestionsView": "Вопросы"
+	},
+	"page_links": {
+		"NoteView": "Заметка",
+		"MoodView": "Настроение",
+		"PillsView": "Таблетки",
+		"SexualActView": "Половой акт",
+		"SymptomsView": "Симптомы",
+		"TemperatureView": "Температура",
+		"WaterView": "Пейте воду",
+		"WeightView": "Вес"
+	},
+	"placeholders": {
+		"selectNum": "Выберите количество дней",
+		"selectDate": "Выберите дату",
+		"entryName": "Введите ваше имя",
+		"requiredName": "Укажите имя",
+		"required_b_day": "Дата рождения обязательна",
+		"required_cycle": "Требуется продолжительность цикла",
+		"required_period": "Укажите продолжительность периода",
+		"required_periodDate": "Укажите дату последнего периода"
+	},
+	"SexualActView": {
+		"protection": "Защита",
+		"condom": "Защищенный контакт",
+		"no_condom": "Незащищенный контакт",
+		"orgasm": "Оргазм",
+		"buttons": {
+			"yes": "Да",
+			"no": "Нет"
+		}
+	}
+}

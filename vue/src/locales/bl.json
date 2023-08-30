@@ -1,0 +1,103 @@
+{
+	"product": {
+		"name": "Жаночы каляндар"
+	},
+	"terms_of_use": {
+		"description": "Наша кампанія сур'ёзна ставіцца да канфідэнцыйнасці інфармацыі. Дадзеныя, сабраныя ў мабільным дадатку, будуць выкарыстоўвацца толькі для мэт, выкладзеных у Палітыцы канфідэнцыйнасці. Абавязкова вывучыце Публічную аферту і Палітыку канфідэнцыяльнасці ніжэй.",
+		"offer": "Публічная аферта",
+		"policy": "Палітыка прыватнасці"
+	},
+	"settings": {
+		"questions": "Паўторна адпраўце свае адказы",
+		"components": {
+			"picker": {
+				"lang": "Змяніць мову",
+				"en": "en",
+				"es": "es"
+			}
+		},
+		"theme": {
+			"light": "Светлая тэма",
+			"dark": "Цёмная тэма"
+		}
+	},
+	"plan": {
+		"title": "Преміум версія",
+		"message": "Приглашаем присоединиться к нам",
+		"basic": "Штомесяц",
+		"premium": "Штогод"
+	},
+	"buttons": {
+		"accept": "Згаджаюся/працягнуць",
+		"skip": "Пропускане",
+		"go_back": "Вяртацца",
+		"save": "Захаваць",
+		"confirm": "Пацвердзіць",
+		"cancel": "Адмяніць",
+		"period_started": "Пачаўся перыяд",
+		"period_finished": "Перыяд скончаны",
+		"change_period_dates": "Змяніць даты",
+		"add_note": "Дадаць каментарый",
+		"plan_free": "Паспрабаваць бясплатна 14 дзён"
+	},
+	"messages": {
+		"greeting": "Сардэчна запрашаем!",
+		"congratulation": "З Днём Нараджэння!",
+		"soon": "Хутка будзе!"
+	},
+	"authorization": {
+		"title": "Працягнуць з:"
+	},
+	"user_data": {
+		"name": "Імя",
+		"b_day": "Дата нараджэння"
+	},
+	"routes": {
+		"HomeView": "Дадому",
+		"CalendarView": "Каляндар",
+		"NotesView": "Нататкі",
+		"NoteView": "Hататкa",
+		"MoodView": "Настрой",
+		"PillsView": "Дадаць таблеткі",
+		"SexualActView": "Палавы акт",
+		"SymptomsView": "Сімптомы",
+		"TemperatureView": "Тэмпература",
+		"WaterView": "Піце ваду",
+		"WeightView": "Пакажыце вашу вагу",
+		"SettingsView": "Налады",
+		"AuthorizationView": "Аўтарызацыя",
+		"OfferView": "Публічная аферта",
+		"PolicyView": "Палітыка прыватнасці",
+		"QuestionsView": "Пытанні"
+	},
+	"page_links": {
+		"NoteView": "Hататкa",
+		"MoodView": "Настрой",
+		"PillsView": "Таблеткі",
+		"SexualActView": "Палавы акт",
+		"SymptomsView": "Сімптомы",
+		"TemperatureView": "Тэмпература",
+		"WaterView": "Піце ваду",
+		"WeightView": "Вага"
+	},
+	"placeholders": {
+		"selectNum": "Выберыце колькасць дзён",
+		"selectDate": "Выберыце дату",
+		"entryName": "Увядзіце імя",
+		"requiredName": "Патрабуецца імя",
+		"required_b_day": "Дата нараджэння абавязковая",
+		"required_cycle": "Патрабуецца працягласць цыкла",
+		"required_period": "Патрабуецца працягласць перыяду",
+		"required_periodDate": "Патрабуецца дата апошняга перыяду"
+	},
+	"SexualActView": {
+		"protection": "Абарона",
+		"condom": "Абаронены кантакт",
+		"no_condom": "Неабаронены кантакт",
+		"orgasm": "Аргазм",
+		"buttons": {
+			"yes": "Так",
+			"no": "Не"
+		}
+	}
+}

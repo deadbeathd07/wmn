@@ -1,0 +1,103 @@
+{
+	"product": {
+		"name": "Жіночий календар"
+	},
+	"terms_of_use": {
+		"description": "Наша компанія серйозно ставиться до конфіденційності інформації. Дані, зібрані в мобільному додатку, будуть використовуватися тільки для цілей, викладених у Політиці конфіденційності. Обов'язково вивчіть Публічну оферту та Політику конфіденційності нижче.",
+		"offer": "Публічна оферта",
+		"policy": "Політика конфіденційності"
+	},
+	"settings": {
+		"questions": "Повторно надішліть свої відповіді",
+		"components": {
+			"picker": {
+				"lang": "Змінити мову",
+				"en": "en",
+				"es": "es"
+			}
+		},
+		"theme": {
+			"light": "Світла тема",
+			"dark": "Темна тема"
+		}
+	},
+	"plan": {
+		"title": "Премиум версия",
+		"message": "Каним ви присъединяване за нас",
+		"basic": "Месечно",
+		"premium": "Ежегодно"
+	},
+	"buttons": {
+		"accept": "Погоджуюся/продовжити",
+		"skip": "Пропустити",
+		"go_back": "Повертайся",
+		"save": "Зберегти",
+		"confirm": "Підтвердити",
+		"cancel": "Скасувати",
+		"period_started": "Період почалися",
+		"period_finished": "Період закінчений",
+		"change_period_dates": "Змінити дати",
+		"add_note": "Додати коментар",
+		"plan_free": "Випробувати безкоштовно 14 днів"
+	},
+	"messages": {
+		"greeting": "Ласкаво просимо!",
+		"congratulation": "З Днем Народження!",
+		"soon": "Незабаром!"
+	},
+	"authorization": {
+		"title": "Продовдити з:"
+	},
+	"user_data": {
+		"name": "Ім'я",
+		"b_day": "Дата народження"
+	},
+	"routes": {
+		"HomeView": "Додому",
+		"CalendarView": "Календар",
+		"NotesView": "Нотатки",
+		"NoteView": "Нотаткa",
+		"MoodView": "Настрій",
+		"PillsView": "Додати Пігулки",
+		"SexualActView": "Статевий акт",
+		"SymptomsView": "Симптоми",
+		"TemperatureView": "Температура",
+		"WaterView": "Пийте воду",
+		"WeightView": "Вкажіть вашу вагу",
+		"SettingsView": "Налаштування",
+		"AuthorizationView": "Авторизація",
+		"OfferView": "Публічна оферта",
+		"PolicyView": "Політика конфіденційності",
+		"QuestionsView": "Питання"
+	},
+	"page_links": {
+		"NoteView": "Нотаткa",
+		"MoodView": "Настрій",
+		"PillsView": "Пігулки",
+		"SexualActView": "Статевий акт",
+		"SymptomsView": "Симптоми",
+		"TemperatureView": "Температура",
+		"WaterView": "Пийте воду",
+		"WeightView": "Вага"
+	},
+	"placeholders": {
+		"selectNum": "Виберіть кількість днів",
+		"selectDate": "Виберіть дату",
+		"entryName": "Введіть ім'я",
+		"requiredName": "Необхідно вказати ім'я",
+		"required_b_day": "Необхідно вказати дату народження",
+		"required_cycle": "Необхідна тривалість циклу",
+		"required_period": "Необхідна тривалість періоду",
+		"required_periodDate": "Необхідно вказати дату останнього періоду"
+	},
+	"SexualActView": {
+		"protection": "Захист",
+		"condom": "Захищений контакт",
+		"no_condom": "Незахищений контакт",
+		"orgasm": "Оргазм",
+		"buttons": {
+			"yes": "Так",
+			"no": "Нi"
+		}
+	}
+}

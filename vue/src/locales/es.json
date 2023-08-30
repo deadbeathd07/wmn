@@ -1,0 +1,103 @@
+{
+	"product": {
+		"name": "Calendario de mujer"
+	},
+	"terms_of_use": {
+		"description": "Nuestra empresa se toma muy serio la información confidencial. Los datos recopilados en la aplicación se encuentran alojados en la República únicamente para los fines establecidos en el punto de control. Asegúrese de leer la oferta pública y la política de privacidad a continuación.",
+		"offer": "Oferta pública",
+		"policy": "Política de privacidad"
+	},
+	"settings": {
+		"questions": "Vuelve a enviar tus preguntas",
+		"components": {
+			"picker": {
+				"lang": "Cambiar idioma",
+				"en": "en",
+				"es": "es"
+			}
+		},
+		"theme": {
+			"light": "Tema ligero",
+			"dark": "Tema oscuro"
+		}
+	},
+	"plan": {
+		"title": "Version Premium",
+		"message": "Te invitamos a visitarnos",
+		"basic": "Mensual",
+		"premium": "Anual"
+	},
+	"buttons": {
+		"accept": "Aceptar/siguir",
+		"skip": "Saltar",
+		"go_back": "Regresa",
+		"save": "Ahorrar",
+		"confirm": "Confirmar",
+		"cancel": "Cancelar",
+		"period_started": "Período iniciado",
+		"period_finished": "Período terminado",
+		"change_period_dates": "Сambiar fechas",
+		"add_note": "Anadir nota",
+		"plan_free": "Probar gratis 14 dias"
+	},
+	"messages": {
+		"greeting": "Bienvenido!",
+		"congratulation": "Feliz Сumpleaños!",
+		"soon": "Muy pronto!"
+	},
+	"authorization": {
+		"title": "Continuar con :"
+	},
+	"user_data": {
+		"name": "Nombre",
+		"b_day": "Fecha de nacimiento"
+	},
+	"routes": {
+		"HomeView": "Hogar",
+		"CalendarView": "Calendario",
+		"NotesView": "Notas",
+		"NoteView": "Nota",
+		"MoodView": "Animo",
+		"PillsView": "Anadir pastillas",
+		"SexualActView": "Acto sexual",
+		"SymptomsView": "Síntomas",
+		"TemperatureView": "La temperatura",
+		"WaterView": "Beber agua",
+		"WeightView": "Introducir peso",
+		"SettingsView": "Ajustes",
+		"AutorizationView": "Autorización",
+		"OfferView": "Oferta pública",
+		"PolicyView": "Política de privacidad",
+		"QuestionsView": "Preguntas"
+	},
+	"page_links": {
+		"NoteView": "Nota",
+		"MoodView": "Animo",
+		"PillsView": "Pastilla",
+		"SexualActView": "Acto sexual",
+		"SymptomsView": "Síntomas",
+		"TemperatureView": "Temperatura",
+		"WaterView": "Beber agua",
+		"WeightView": "Peso"
+	},
+	"placeholders": {
+		"selectNum": "Seleccione el número de días",
+		"selectDate": "Seleccione fecha",
+		"entryName": "Introduzca su nombre",
+		"requiredName": "Se requiere el nombre",
+		"required_b_day": "Se requiere la fecha de nacimiento",
+		"required_cycle": "Se requiere la duración del ciclo",
+		"required_period": "Se requiere la duración del período",
+		"required_periodDate": "Se requiere la fecha del último período"
+	},
+	"SexualActView": {
+		"protection": "Proteccion",
+		"condom": "Contacto protegido",
+		"no_condom": "Contacto desprotegido",
+		"orgasm": "Orgasmo",
+		"buttons": {
+			"yes": "Si",
+			"no": "No"
+		}
+	}
+}

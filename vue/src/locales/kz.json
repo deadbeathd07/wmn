@@ -1,0 +1,103 @@
+{
+	"product": {
+		"name": "Әйелдер күнтізбесі"
+	},
+	"terms_of_use": {
+		"description": "Біздің компания маңызды ақпараттың құпиялылығы. Мобильді қосымшада жиналған деректер, мақсаттарда ғана пайдаланылады Құпиялық саясатында көрсетілген. Төмендегі Қоғамдық ұсыныс пен Құпиялылық саясатын оқып шығыңыз.",
+		"offer": "Қоғамдық ұсыныс",
+		"policy": "Құпиялылық саясаты"
+	},
+	"settings": {
+		"questions": "Жауаптарыңызды қайта жіберіңіз",
+		"components": {
+			"picker": {
+				"lang": "Тілді өзгерту",
+				"en": "en",
+				"es": "es"
+			}
+		},
+		"theme": {
+			"light": "Жеңіл тақырып",
+			"dark": "Қараңғы тақырып"
+		}
+	},
+	"plan": {
+		"title": "Премиум нұсқасы",
+		"message": "Шақырамыз қосылу бізге",
+		"basic": "Ай сайын",
+		"premium": "Жыл сайын"
+	},
+	"buttons": {
+		"accept": "Келісемін/жалғастырамын",
+		"skip": "Шығу",
+		"go_back": "Қайтып келу",
+		"save": "Сақтау",
+		"confirm": "Растау",
+		"cancel": "Болдырмау",
+		"period_started": "Кезең басталды",
+		"period_finished": "Мерзім аяқталды",
+		"change_period_dates": "Күндерді өзгерту",
+		"add_note": "Ескертпе қосыңыз",
+		"plan_free": "Тегін көріңіз 14 күн"
+	},
+	"messages": {
+		"greeting": "Kош келдіңіз!",
+		"congratulation": "Туылған күніңмен!",
+		"soon": "Жақында шығады!"
+	},
+	"authorization": {
+		"title": "Жалғастырыңыз:"
+	},
+	"user_data": {
+		"name": "Аты",
+		"b_day": "Туған жылы"
+	},
+	"routes": {
+		"HomeView": "Үй",
+		"CalendarView": "Күнтізбе",
+		"NotesView": "Ескертпелер",
+		"NoteView": "Ескерту",
+		"MoodView": "Көңіл-күй",
+		"PillsView": "Таблеткаларды қосыңыз",
+		"SexualActView": "Жыныстық қатынас",
+		"SymptomsView": "Симптомдары",
+		"TemperatureView": "Температура",
+		"WaterView": "Су ішу",
+		"WeightView": "Салмағыңызды енгізіңіз",
+		"SettingsView": "Параметрлер",
+		"AuthorizationView": "Авторизация",
+		"OfferView": "Қоғамдық ұсыныс",
+		"PolicyView": "Құпиялылық саясаты",
+		"QuestionsView": "Сұрақтар"
+	},
+	"page_links": {
+		"NoteView": "Ескерту",
+		"MoodView": "Көңіл-күй",
+		"PillsView": "Планшеттер",
+		"SexualActView": "Жыныстық қатынас",
+		"SymptomsView": "Симптомдары",
+		"TemperatureView": "Температура",
+		"WaterView": "Су ішу",
+		"WeightView": "Салмағы"
+	},
+	"placeholders": {
+		"selectNum": "Күндер санын таңдаңыз",
+		"selectDate": "Күнді таңдаңыз",
+		"entryName": "Атыңызды енгізіңіз",
+		"requiredName": "Аты қажет",
+		"required_b_day": "Туған күні қажет",
+		"required_cycle": "Цикл ұзақтығы қажет",
+		"required_period": "Мерзімнің ұзақтығы қажет",
+		"required_periodDate": "Соңғы кезең күні қажет"
+	},
+	"SexualActView": {
+		"protection": "Қорғау",
+		"condom": "қорғалған контакт",
+		"no_condom": "қорғалмаған контакт",
+		"orgasm": "Оргазм",
+		"buttons": {
+			"yes": "Иә",
+			"no": "Жоқ"
+		}
+	}
+}

@@ -1,0 +1,103 @@
+{
+	"product": {
+		"name": "Calendrier des femmes"
+	},
+	"terms_of_use": {
+		"description": "Notre entreprise prend au sérieux confidentialité des informations. Les données collectées dans l'application mobile, ne sera utilisé qu'à des fins énoncées dans la politique de confidentialité. Assurez-vous de lire l'offre publique et la politique de confidentialité ci-dessous.",
+		"offer": "Offre publique",
+		"policy": "Politique de confid9entialité"
+	},
+	"settings": {
+		"questions": "Répondez à votre tour",
+		"components": {
+			"picker": {
+				"lang": "Changer de langue",
+				"en": "en",
+				"es": "es"
+			}
+		},
+		"theme": {
+			"light": "Thème de la lumière",
+			"dark": "Thème sombre"
+		}
+	},
+	"plan": {
+		"title": "Version Premium",
+		"message": "Nous t'invitons rejoindre à nous",
+		"basic": "Mensuel",
+		"premium": "Annuellement"
+	},
+	"buttons": {
+		"accept": "Je suis d'accord/continue",
+		"skip": "Sauter",
+		"go_back": "Dos",
+		"save": "Sauvegarder",
+		"confirm": "Confirmer",
+		"cancel": "Annuler",
+		"period_started": "Période commencée",
+		"period_finished": "Period finished",
+		"change_period_dates": "Modifier les dates",
+		"add_note": "Ajouter une note",
+		"plan_free": "Essayer gratuitement 14 jours"
+	},
+	"messages": {
+		"greeting": "Accueillir!",
+		"congratulation": "Joyeux anniversaire!",
+		"soon": "À venir!"
+	},
+	"authorization": {
+		"title": "Procéder à :"
+	},
+	"user_data": {
+		"name": "Nom",
+		"b_day": "Date de naissance"
+	},
+	"routes": {
+		"HomeView": "Maison",
+		"CalendarView": "Calendrier",
+		"NotesView": "Remarques",
+		"NoteView": "Note",
+		"MoodView": "Ambiance",
+		"PillsView": "Ajouter des pilules",
+		"SexualActView": "Acte sexuel",
+		"SymptomsView": "Symptômes",
+		"TemperatureView": "Température",
+		"WaterView": "Bois de l'eau",
+		"WeightView": "Entrez votre poids",
+		"SettingsView": "Paramètres",
+		"AuthorizationView": "Autorisation",
+		"OfferView": "Offre publique",
+		"PolicyView": "Politique de confid9entialité",
+		"QuestionsView": "Des questions"
+	},
+	"page_links": {
+		"NoteView": "Note",
+		"MoodView": "Ambiance",
+		"PillsView": "Pilules",
+		"SexualActView": "Acte sexuel",
+		"SymptomsView": "Les symptômes",
+		"TemperatureView": "Température",
+		"WaterView": "Bois de l'eau",
+		"WeightView": "Le poids"
+	},
+	"placeholders": {
+		"selectNum": "Sélectionnez le nombre de jours",
+		"selectDate": "Sélectionner une date",
+		"entryName": "Entrez votre nom",
+		"requiredName": "Le nom est requis",
+		"required_b_day": "La date de naissance est obligatoire",
+		"required_cycle": "La durée du cycle est requise",
+		"required_period": "La durée de la période est requise",
+		"required_periodDate": "La date des dernières règles est obligatoire"
+	},
+	"SexualActView": {
+		"protection": "Protection",
+		"condom": "Protégé contactez",
+		"no_condom": "Non protégé contactez",
+		"orgasm": "Orgasme",
+		"buttons": {
+			"yes": "Oui",
+			"no": "Non"
+		}
+	}
+}

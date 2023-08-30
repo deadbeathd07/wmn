@@ -1,0 +1,103 @@
+{
+	"product": {
+		"name": "Moterų kalendorius"
+	},
+	"terms_of_use": {
+		"description": "Naše společnost to myslí vážně důvěrnost informací. Údaje shromážděné v mobilní aplikaci, budou použity pouze pro účely uvedené v Zásadách ochrany osobních údajů. Nezapomeňte si přečíst níže uvedené zásady veřejné nabídky a ochrany osobních údajů.",
+		"offer": "Veřejná nabídka",
+		"policy": "Zásady ochrany osobních údajů"
+	},
+	"settings": {
+		"questions": "Iš naujo pateikite atsakymus",
+		"components": {
+			"picker": {
+				"lang": "Pakeisti KALBĄ",
+				"en": "en",
+				"es": "es"
+			}
+		},
+		"theme": {
+			"light": "Lengva tema",
+			"dark": "Tamsi tema"
+		}
+	},
+	"plan": {
+		"title": "Premium versija",
+		"message": "Kviečiame prisijungti mums",
+		"basic": "Kas mėnesį",
+		"premium": "Kasmet"
+	},
+	"buttons": {
+		"accept": "Souhlasím/pokračuji",
+		"skip": "Praleisti",
+		"go_back": "Eik atgal",
+		"save": "Sutaupyti",
+		"confirm": "Patvirtinti",
+		"cancel": "Atšaukti",
+		"period_started": "Prasidėjo laikotarpis",
+		"period_finished": "Laikotarpis baigtas",
+		"change_period_dates": "Keisti datas",
+		"add_note": "Pridėti pastabą",
+		"plan_free": "Išbandyk nemokamai 14 dienų"
+	},
+	"messages": {
+		"greeting": "Sveiki!",
+		"congratulation": "Su gimtadieniu!",
+		"soon": "Netrukus!"
+	},
+	"authorization": {
+		"title": "Tęsti su:"
+	},
+	"user_data": {
+		"name": "Vardas",
+		"b_day": "Gimimo data"
+	},
+	"routes": {
+		"HomeView": "Namai",
+		"CalendarView": "Kalendorius",
+		"NotesView": "Pastabos",
+		"NoteView": "Pastaba",
+		"MoodView": "Nuotai",
+		"PillsView": "Papildyti tabletės",
+		"SexualActView": "lytinis aktas",
+		"SymptomsView": "Simptomai",
+		"TemperatureView": "Temperatūra",
+		"WaterView": "Gerk vandenį",
+		"WeightView": "Įveskite savo svorį",
+		"SettingsView": "Nustatymai",
+		"AuthorizationView": "Autorizacija",
+		"OfferView": "Veřejná nabídka",
+		"PolicyView": "Zásady ochrany osobních údajů",
+		"QuestionsView": "Klausimai"
+	},
+	"page_links": {
+		"NoteView": "Pastaba",
+		"MoodView": "Nuotaika",
+		"PillsView": "Tabletės",
+		"SexualActView": "lytinis aktas",
+		"SymptomsView": "Simptomai",
+		"TemperatureView": "Temperatūra",
+		"WaterView": "Gerk vandenį",
+		"WeightView": "Svoris"
+	},
+	"placeholders": {
+		"selectNum": "Pasirinkite dienų skaičių",
+		"selectDate": "Pasirinkite datą",
+		"entryName": "Įveskite savo vardą",
+		"requiredName": "Reikalingas vardas",
+		"required_b_day": "Būtina nurodyti gimimo datą",
+		"required_cycle": "Reikalinga ciklo trukmė",
+		"required_period": "Reikalinga laikotarpio trukmė",
+		"required_periodDate": "Būtina nurodyti paskutinio laikotarpio datą"
+	},
+	"SexualActView": {
+		"protection": "Apsauga",
+		"condom": "Apsaugotas kontaktas",
+		"no_condom": "Neapsaugotas kontaktas",
+		"orgasm": "Orgazmas",
+		"buttons": {
+			"yes": "Taip",
+			"no": "Nr"
+		}
+	}
+}

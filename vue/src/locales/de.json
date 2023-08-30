@@ -1,0 +1,98 @@
+{
+	"product": {
+		"name": "Kalender für frauen"
+	},
+	"terms_of_use": {
+		"description": "Unser Unternehmen meint es ernst Vertraulichkeit von Informationen. Die in der mobilen Anwendung gesammelten Daten, werden nur für die Zwecke verwendet in der Datenschutzerklärung festgelegt. Lesen Sie unbedingt das öffentliche Angebot und die Datenschutzrichtlinie unten.",
+		"offer": "Öffentliches Angebot",
+		"policy": "Politique de confid9entialité"
+	},
+	"settings": {
+		"questions": "Senden Sie Ihre Antworten erneut",
+		"components": {
+			"picker": {
+				"lang": "Sprache ändern",
+				"en": "en",
+				"es": "es"
+			}
+		},
+		"theme": {
+			"light": "Licht Thema",
+			"dark": "Dunkles Thema"
+		}
+	},
+	"plan": {
+		"title": "Premium Version",
+		"message": "Wir laden euch ein beitreten zu uns",
+		"basic": "Monatlich",
+		"premium": "Jährlich"
+	},
+	"buttons": {
+		"accept": "Ich stimme /fahre fort",
+		"skip": "Überspringen",
+		"go_back": "Zurück",
+		"save": "Speichern",
+		"confirm": "Bestätigen",
+		"cancel": "Stornieren",
+		"period_started": "Die Periode hat begonnen",
+		"period_finished": "Periode beendet",
+		"change_period_dates": "Termine ändern",
+		"add_note": "Notiz hinzufügen",
+		"plan_free": "Kostenlos testen 14 Tage"
+	},
+	"messages": {
+		"greeting": "Willkommen zurück!",
+		"congratulation": "Alles Gute zum Geburtstag!",
+		"soon": "Demnächst!"
+	},
+	"authorization": {
+		"title": "Weitermachen mit:"
+	},
+	"user_data": {
+		"name": "Name",
+		"b_day": "Geburtsdatum"
+	},
+	"routes": {
+		"HomeView": "Heim",
+		"CalendarView": "Kalender",
+		"NotesView": "Anmerkungen",
+		"NoteView": "Hinweis",
+		"MoodView": "Stimmung",
+		"PillsView": "Hinzufügen Tablets",
+		"SexualActView": "Geschlechtsverkehr",
+		"SymptomsView": "Symptome",
+		"TemperatureView": "Temperatur",
+		"WaterView": "Wasser trinken",
+		"WeightView": "Geben Sie Ihr Gewicht ein",
+		"SettingsView": "Einstellungen",
+		"AuthorizationView": "Genehmigung",
+		"OfferView": "Öffentliches Angebot",
+		"PolicyView": "Politique de confid9entialité",
+		"QuestionsView": "Fragen"
+	},
+	"page_links": {
+		"NoteView": "Hinweis",
+		"MoodView": "Stimmung",
+		"PillsView": "Tablets",
+		"SexualActView": "Geschlechtsverkehr",
+		"SymptomsView": "Symptome",
+		"TemperatureView": "Temperatur",
+		"WaterView": "Wasser trinken",
+		"WeightView": "Das Gewicht"
+	},
+	"placeholders": {
+		"selectNum": "Wählen sie die anzahl der tage aus",
+		"selectDate": "Datum auswählen",
+		"entryName": "Gib deinen namen ein"
+	},
+	"SexualActView": {
+		"protection": "Schutz",
+		"condom": "Geschützt Kontakt",
+		"no_condom": "Ungeschützt Kontakt",
+		"orgasm": "Orgasmus",
+		"buttons": {
+			"yes": "Ja",
+			"no": "Nein"
+		}
+	}
+}

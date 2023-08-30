@@ -1,0 +1,103 @@
+{
+	"product": {
+		"name": "Ayollar kalendar"
+	},
+	"terms_of_use": {
+		"description": "Bizning kompaniyamiz jiddiy ma'lumotlarning maxfiyligi. Mobil ilovada to'plangan ma'lumotlar, faqat maqsadlarda foydalaniladi Maxfiylik siyosatida belgilangan. Quyidagi Ommaviy taklif va Maxfiylik siyosati bilan tanishib chiqing.",
+		"offer": "Ommaviy taklif",
+		"policy": "Maxfiylik siyosati"
+	},
+	"settings": {
+		"questions": "Javoblaringizni qayta yuboring",
+		"components": {
+			"picker": {
+				"lang": "Tilni o'zgartirish",
+				"en": "en",
+				"es": "es"
+			}
+		},
+		"theme": {
+			"light": "Engil mavzu",
+			"dark": "Qorong'i mavzu"
+		}
+	},
+	"plan": {
+		"title": "Premium versiya",
+		"message": "Sizni taklif qilamiz qo'shilish biznikiga",
+		"basic": "Oylik",
+		"premium": "Har yili"
+	},
+	"buttons": {
+		"accept": "Men roziman/davom qilaman",
+		"skip": "Chiqish",
+		"go_back": "Ortga qaytish",
+		"save": "Saqlash",
+		"confirm": "Tasdiqlang",
+		"cancel": "Bekor qilish",
+		"period_started": "Davr boshlandi",
+		"period_finished": "Davr tugadi",
+		"change_period_dates": "Sanalarni o'zgartirish",
+		"add_note": "Eslatma qo'shing",
+		"plan_free": "Bepul sinab ko'ring 14 kun"
+	},
+	"messages": {
+		"greeting": "Xush kelibsiz!",
+		"congratulation": "Tug'ilgan kun muborak bo'lsin!",
+		"soon": "Tez kunlarda!"
+	},
+	"authorization": {
+		"title": "Bilan davom eting:"
+	},
+	"user_data": {
+		"name": "Ism",
+		"b_day": "Tug'ilgan kuni"
+	},
+	"routes": {
+		"HomeView": "Uy",
+		"CalendarView": "Kalendar",
+		"NotesView": "Eslatmalar",
+		"NoteView": "Eslatma",
+		"MoodView": "Kayfiyat",
+		"PillsView": "Tabletkalarni qo'shing",
+		"SexualActView": "Jinsiy aloqa",
+		"SymptomsView": "Alomatlar",
+		"TemperatureView": "Harorat",
+		"WaterView": "Suv ichish",
+		"WeightView": "Og'irligingizni kiriting",
+		"SettingsView": "Sozlamalar",
+		"AuthorizationView": "Ruxsat",
+		"OfferView": "Ommaviy taklif",
+		"PolicyView": "Maxfiylik siyosati",
+		"QuestionsView": "Savollar"
+	},
+	"page_links": {
+		"NoteView": "Eslatma",
+		"MoodView": "Kayfiyat",
+		"PillsView": "Planshetlar",
+		"SexualActView": "Jinsiy aloqa",
+		"SymptomsView": "Alomatlar",
+		"TemperatureView": "Harorat",
+		"WaterView": "Suv ichish",
+		"WeightView": "Og'irligi"
+	},
+	"placeholders": {
+		"selectNum": "Kunlar sonini tanlang",
+		"selectDate": "Sanani tanlang",
+		"entryName": "Ismingizni kiriting",
+		"requiredName": "Ism talab qilinadi",
+		"required_b_day": "Tug'ilgan sana kerak",
+		"required_cycle": "Tsikl davomiyligi talab qilinadi",
+		"required_period": "Davr davomiyligi talab qilinadi",
+		"required_periodDate": "Oxirgi davr sanasi talab qilinadi"
+	},
+	"SexualActView": {
+		"protection": "Himoya",
+		"condom": "Himoyalangan kontakt",
+		"no_condom": "Himoyalanmagan aloqa",
+		"orgasm": "Orgazm",
+		"buttons": {
+			"yes": "Ha",
+			"no": "Yo'q"
+		}
+	}
+}

@@ -1,0 +1,103 @@
+{
+	"product": {
+		"name": "Kadın takvimi"
+	},
+	"terms_of_use": {
+		"description": "Firmamız ciddi bilgilerin gizliliği. Mobil uygulamada toplanan veriler, sadece amaçlar için kullanılacaktır Gizlilik Politikasında belirtilmiştir. Aşağıdaki Halka Arz ve Gizlilik Politikasını okuduğunuzdan emin olun.",
+		"offer": "Halka arz",
+		"policy": "Gizlilik Politikası"
+	},
+	"settings": {
+		"questions": "Resubmit your answers",
+		"components": {
+			"picker": {
+				"lang": "Change language",
+				"en": "en",
+				"es": "es"
+			}
+		},
+		"theme": {
+			"light": "Light theme",
+			"dark": "Dark theme"
+		}
+	},
+	"plan": {
+		"title": "Premium sürüm",
+		"message": "Sizi dəvət edirik kosulun biz",
+		"basic": "Aylık",
+		"premium": "Yıllık"
+	},
+	"buttons": {
+		"accept": "Kabul Ediyorum/Devam",
+		"skip": "Atlamak",
+		"go_back": "Geri gitmek",
+		"save": "Kaydetmek",
+		"confirm": "Onaylamak",
+		"cancel": "İptal etmek",
+		"period_started": "Dönem başladı",
+		"period_finished": "Dönem bitti",
+		"change_period_dates": "Tarihleri değiştir",
+		"add_note": "Ekle Not",
+		"plan_free": "Ücretsiz deneyin 14 gün"
+	},
+	"messages": {
+		"greeting": "Hoş geldin!",
+		"congratulation": "Doğum günün kutlu olsun!",
+		"soon": "Yakında gelecek!"
+	},
+	"authorization": {
+		"title": "İle devam et:"
+	},
+	"user_data": {
+		"name": "İsim",
+		"b_day": "Doğum tarihi"
+	},
+	"routes": {
+		"HomeView": "Ev",
+		"CalendarView": "Takvim",
+		"NotesView": "Notlar",
+		"NoteView": "Not",
+		"MoodView": "Mod",
+		"PillsView": "Hap ekle",
+		"SexualActView": "Cinsel ilişki",
+		"SymptomsView": "Belirtiler",
+		"TemperatureView": "Hava sıcaklığı",
+		"WaterView": "Su iç",
+		"WeightView": "Kilonuzu girin",
+		"SettingsView": "Ayarlar",
+		"AuthorizationView": "Yetki",
+		"OfferView": "Halka arz",
+		"PolicyView": "Gizlilik Politikası",
+		"QuestionsView": "Sorular"
+	},
+	"page_links": {
+		"NoteView": "Not",
+		"MoodView": "Mod",
+		"PillsView": "Tabletler",
+		"SexualActView": "Cinsel ilişki",
+		"SymptomsView": "Belirtiler",
+		"TemperatureView": "Hava sıcaklığı",
+		"WaterView": "Su iç",
+		"WeightView": "Ağırlık"
+	},
+	"placeholders": {
+		"selectNum": "Gün sayısını seçin",
+		"selectDate": "Tarih seç",
+		"entryName": "Adınızı giriniz",
+		"requiredName": "İsim gerekli",
+		"required_b_day": "Doğum tarihi gereklidir",
+		"required_cycle": "Döngü süresi gerekli",
+		"required_period": "Dönem süresi gerekli",
+		"required_periodDate": "Son adet tarihi gereklidir"
+	},
+	"SexualActView": {
+		"protection": "Koruma",
+		"condom": "Korumalı iletişim",
+		"no_condom": "Korumasız temas",
+		"orgasm": "Orgazm",
+		"buttons": {
+			"yes": "Evet",
+			"no": "Yok"
+		}
+	}
+}

@@ -1,0 +1,103 @@
+{
+	"product": {
+		"name": "Calendario delle donne"
+	},
+	"terms_of_use": {
+		"description": "La nostra azienda è seria riservatezza delle informazioni. I dati raccolti nell'applicazione mobile, saranno utilizzati solo per gli scopi indicato nella Privacy Policy. Assicurati di leggere l'Offerta pubblica e l'Informativa sulla privacy di seguito.",
+		"offer": "Offerta pubblica",
+		"policy": "Politica sulla riservatezza"
+	},
+	"settings": {
+		"questions": "Invia nuovamente le tue risposte",
+		"components": {
+			"picker": {
+				"lang": "Cambia lingua",
+				"en": "en",
+				"es": "es"
+			}
+		},
+		"theme": {
+			"light": "Tema chiaro",
+			"dark": "Tema scuro"
+		}
+	},
+	"plan": {
+		"title": "Versione premium",
+		"message": "Ti invitiamo partecipare a noi",
+		"basic": "Mensile",
+		"premium": "Annualmente"
+	},
+	"buttons": {
+		"accept": "Accetto/continuo",
+		"skip": "Saltare",
+		"go_back": "Torna indietro",
+		"save": "Salva",
+		"confirm": "Confermare",
+		"cancel": "Annulla",
+		"period_started": "Periodo iniziato",
+		"period_finished": "Periodo terminato",
+		"change_period_dates": "Cambia date",
+		"add_note": "Aggiungi nota",
+		"plan_free": "Prova gratis 14 giorni"
+	},
+	"messages": {
+		"greeting": "Ben arrivato!",
+		"congratulation": "Buon compleanno!",
+		"soon": "Prossimamente!"
+	},
+	"authorization": {
+		"title": "Continua con :"
+	},
+	"user_data": {
+		"name": "Nome",
+		"b_day": "Data di nascita"
+	},
+	"routes": {
+		"HomeView": "Casa",
+		"CalendarView": "Calendario",
+		"NotesView": "Appunti",
+		"NoteView": "Nota",
+		"MoodView": "Umore",
+		"PillsView": "Aggiungere compresse",
+		"SexualActView": "Rapporto sessuale",
+		"SymptomsView": "Sintomi",
+		"TemperatureView": "Тemperatura",
+		"WaterView": "Bere acqua",
+		"WeightView": "Inserisci il tuo peso",
+		"SettingsView": "Impostazioni",
+		"AuthorizationView": "Autorizzazione",
+		"OfferView": "Offerta pubblica",
+		"PolicyView": "Politica sulla riservatezza",
+		"QuestionsView": "Domande"
+	},
+	"page_links": {
+		"NoteView": "Nota",
+		"MoodView": "Umore",
+		"PillsView": "Compresse",
+		"SexualActView": "Rapporto sessuale",
+		"SymptomsView": "Sintomi",
+		"TemperatureView": "Тemperatura",
+		"WaterView": "Bere acqua",
+		"WeightView": "Il peso"
+	},
+	"placeholders": {
+		"selectNum": "Seleziona il numero di giorni",
+		"selectDate": "Seleziona la data",
+		"entryName": "Inserisci il tuo nome",
+		"requiredName": "Il nome è obbligatorio",
+		"required_b_day": "La data di nascita è obbligatoria",
+		"required_cycle": "La durata del ciclo è obbligatoria",
+		"required_period": "La durata del periodo è obbligatoria",
+		"required_periodDate": "La data dell'ultimo periodo è obbligatoria"
+	},
+	"SexualActView": {
+		"protection": "Protezione",
+		"condom": "Protetto contatto",
+		"no_condom": "Non protetto contatto",
+		"orgasm": "Orgasmo",
+		"buttons": {
+			"yes": "Si",
+			"no": "No"
+		}
+	}
+}
