@@ -1,103 +1,103 @@
 {
-	"product": {
-		"name": "Qadın təqvimi"
-	},
-	"terms_of_use": {
-		"description": "Şirkətimiz ciddidir məlumatların məxfiliyi. Mobil proqramda toplanan məlumatlar, məqsədləri üçün istifadə olunacaq Məxfilik Siyasətində müəyyən edilmişdir. Aşağıdakı İctimai Təklif və Məxfilik Siyasətini oxumağınızdan əmin olun.",
-		"offer": "İctimai təklif",
-		"policy": "Gizlilik Siyasəti"
-	},
-	"settings": {
-		"questions": "Cavablarınızı yenidən göndərin",
-		"components": {
-			"picker": {
-				"lang": "Dili dəyişdirin",
-				"en": "en",
-				"es": "es"
-			}
-		},
-		"theme": {
-			"light": "Yüngül mövzu",
-			"dark": "Qaranlıq mövzu"
-		}
-	},
-	"plan": {
-		"title": "Premium versiya",
-		"message": "Sizi dəvət edirik qoşulun bizə",
-		"basic": "Aylıq",
-		"premium": "Hər il"
-	},
-	"buttons": {
-		"accept": "Razıyam/davam edirəm",
-		"skip": "Keç",
-		"go_back": "Qeri gayıt",
-		"save": "Yadda saxla",
-		"confirm": "Təsdiq edin",
-		"cancel": "Ləğv et",
-		"period_started": "Dövr başladı",
-		"period_finished": "Dövr bitdi",
-		"change_period_dates": "Tarixləri dəyişdirin",
-		"add_note": "Əlavə et Qeyd",
-		"plan_free": "Pulsuz cəhd edin 14 gün"
-	},
-	"messages": {
-		"greeting": "Xoş gəlmisiniz!",
-		"congratulation": "Ad günün mübarək!",
-		"soon": "Tezliklə!"
-	},
-	"authorization": {
-		"title": "Ilə davam edin:"
-	},
-	"user_data": {
-		"name": "Ad",
-		"b_day": "Doğum tarixi"
-	},
-	"routes": {
-		"HomeView": "Ev",
-		"CalendarView": "Təqvim",
-		"NotesView": "Qeydlər",
-		"NoteView": "Qeyd",
-		"MoodView": "Əhval-ruhiyyə",
-		"PillsView": "Həb əlavə edin",
-		"SexualActView": "Cinsi əlaqə",
-		"SymptomsView": "Simptomlar",
-		"TemperatureView": "Temperatur",
-		"WaterView": "Su içmək",
-		"WeightView": "Çəkinizi daxil edin",
-		"SettingsView": "Parametrlər",
-		"AuthorizationView": "Səlahiyyət",
-		"OfferView": "İctimai təklif",
-		"PolicyView": "Gizlilik Siyasəti",
-		"QuestionsView": "Suallar"
-	},
-	"page_links": {
-		"NoteView": "Qeyd",
-		"MoodView": "Əhval-ruhiyyə",
-		"PillsView": "Tabletlər",
-		"SexualActView": "Cinsi əlaqə",
-		"SymptomsView": "Simptomlar",
-		"TemperatureView": "Temperatur",
-		"WaterView": "Su içmək",
-		"WeightView": "Çəki"
-	},
-	"placeholders": {
-		"selectNum": "Günlərin sayını seçin",
-		"selectDate": "Tarix seçin",
-		"entryName": "Adınızı daxil edin",
-		"requiredName": "Ad tələb olunur",
-		"required_b_day": "Doğum tarixi tələb olunur",
-		"required_cycle": "Döngə müddəti tələb olunur",
-		"required_period": "Dövrün müddəti tələb olunur",
-		"required_periodDate": "Son dövr tarixi tələb olunur"
-	},
-	"SexualActView": {
-		"protection": "Qoruma",
-		"condom": "Qorunan əlaqə",
-		"no_condom": "Qorunmayan əlaqə",
-		"orgasm": "Orqazm",
-		"buttons": {
-			"yes": "Bəli",
-			"no": "Yox"
-		}
-	}
+    "product": {
+        "name": "Qadın təqvimi"
+    },
+    "terms_of_use": {
+        "description": "Şirkətimiz ciddidir məlumatların məxfiliyi. Mobil proqramda toplanan məlumatlar, məqsədləri üçün istifadə olunacaq Məxfilik Siyasətində müəyyən edilmişdir. Aşağıdakı İctimai Təklif və Məxfilik Siyasətini oxumağınızdan əmin olun.",
+        "offer": "İctimai təklif",
+        "policy": "Gizlilik Siyasəti"
+    },
+    "settings": {
+        "questions": "Cavablarınızı yenidən göndərin",
+        "components": {
+            "picker": {
+                "lang": "Dili dəyişdirin",
+                "en": "en",
+                "es": "es"
+            }
+        },
+        "theme": {
+            "light": "Yüngül mövzu",
+            "dark": "Qaranlıq mövzu"
+        }
+    },
+    "plan": {
+        "title": "Premium versiya",
+        "message": "Sizi dəvət edirik qoşulun bizə",
+        "basic": "Aylıq",
+        "premium": "Hər il"
+    },
+    "buttons": {
+        "accept": "Razıyam/davam edirəm",
+        "skip": "Keç",
+        "go_back": "Qeri gayıt",
+        "save": "Yadda saxla",
+        "confirm": "Təsdiq edin",
+        "cancel": "Ləğv et",
+        "period_started": "Dövr başladı",
+        "period_finished": "Dövr bitdi",
+        "change_period_dates": "Tarixləri dəyişdirin",
+        "add_note": "Əlavə et Qeyd",
+        "plan_free": "Pulsuz cəhd edin 14 gün"
+    },
+    "messages": {
+        "greeting": "Xoş gəlmisiniz!",
+        "congratulation": "Ad günün mübarək!",
+        "soon": "Tezliklə!"
+    },
+    "authorization": {
+        "title": "Ilə davam edin:"
+    },
+    "user_data": {
+        "name": "Ad",
+        "b_day": "Doğum tarixi"
+    },
+    "routes": {
+        "HomeView": "Ev",
+        "CalendarView": "Təqvim",
+        "NotesView": "Qeydlər",
+        "NoteView": "Qeyd",
+        "MoodView": "Əhval-ruhiyyə",
+        "PillsView": "Həb əlavə edin",
+        "SexualActView": "Cinsi əlaqə",
+        "SymptomsView": "Simptomlar",
+        "TemperatureView": "Temperatur",
+        "WaterView": "Su içmək",
+        "WeightView": "Çəkinizi daxil edin",
+        "SettingsView": "Parametrlər",
+        "AuthorizationView": "Səlahiyyət",
+        "OfferView": "İctimai təklif",
+        "PolicyView": "Gizlilik Siyasəti",
+        "QuestionsView": "Suallar"
+    },
+    "page_links": {
+        "NoteView": "Qeyd",
+        "MoodView": "Əhval-ruhiyyə",
+        "PillsView": "Tabletlər",
+        "SexualActView": "Cinsi əlaqə",
+        "SymptomsView": "Simptomlar",
+        "TemperatureView": "Temperatur",
+        "WaterView": "Su içmək",
+        "WeightView": "Çəki"
+    },
+    "placeholders": {
+        "selectNum": "Günlərin sayını seçin",
+        "selectDate": "Tarix seçin",
+        "entryName": "Adınızı daxil edin",
+        "requiredName": "Ad tələb olunur",
+        "required_b_day": "Doğum tarixi tələb olunur",
+        "required_cycle": "Döngə müddəti tələb olunur",
+        "required_period": "Dövrün müddəti tələb olunur",
+        "required_periodDate": "Son dövr tarixi tələb olunur"
+    },
+    "SexualActView": {
+        "protection": "Qoruma",
+        "condom": "Qorunan əlaqə",
+        "no_condom": "Qorunmayan əlaqə",
+        "orgasm": "Orqazm",
+        "buttons": {
+            "yes": "Bəli",
+            "no": "Yox"
+        }
+    }
 }
