@@ -7,7 +7,7 @@ use App\Http\Controllers\API\BaseController as BaseController;
 use App\Http\Resources\PlanResource;
 use App\Models\Plan;
 
-
+// * -------------------------------------------------------------------*//
 class PlanController extends BaseController
 {
   /**
@@ -26,3 +26,4 @@ class PlanController extends BaseController
     return $this->sendResponse(PlanResource::collection($plan), 'Plan retrieved successfully.');
   }
 }
+// * -------------------------------------------------------------------*//

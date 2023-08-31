@@ -50,6 +50,7 @@ return new class extends Migration
         'name' => 'Name',
         'birth_date' => 'Enter date of birth'
       ],
+      // * -------------------------------------------------------------------*//
       [
         'lang' => 'fr',
         'duration_period_last' => 'Normalement combien de jours tes règles durent-elles?',
@@ -155,6 +156,7 @@ return new class extends Migration
         'birth_date' => 'Doğum tarihinizi giriniz'
       ]
     );
+    // * -------------------------------------------------------------------*//
 
     foreach ($data as $datum) {
       $question = new Question(); //The Category is the model for your migration

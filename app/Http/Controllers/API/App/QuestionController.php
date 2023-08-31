@@ -7,7 +7,7 @@ use App\Http\Controllers\API\BaseController as BaseController;
 use App\Http\Resources\QuestionResource;
 use App\Models\Question;
 
-
+// * -------------------------------------------------------------------*//
 class QuestionController extends BaseController
 {
   /**
@@ -26,3 +26,4 @@ class QuestionController extends BaseController
     return $this->sendResponse(new QuestionResource($question), 'Question retrieved successfully.');
   }
 }
+// * -------------------------------------------------------------------*//

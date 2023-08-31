@@ -12,7 +12,7 @@ use App\Http\Resources\UserSelectedPlansResource;
 
 use Carbon\Carbon;
 
-
+// * -------------------------------------------------------------------*//
 class UserSelectedPlanController extends BaseController
 {
   /**
@@ -83,17 +83,5 @@ class UserSelectedPlanController extends BaseController
     $planSelected->save();
     return $this->sendResponse(new UserSelectedPlansResource($planSelected), 'User selected plan  updated successfully.');
   }
-
-  /**
-   * Remove the specified resource from storage.
-   *
-   * @param  int  $id
-   * @return \Illuminate\Http\Response
-   */
-  public function destroy(Product $product)
-  {
-    $product->delete();
-
-    return $this->sendResponse([], 'Product deleted successfully.');
-  }
+  // * -------------------------------------------------------------------*//
 }

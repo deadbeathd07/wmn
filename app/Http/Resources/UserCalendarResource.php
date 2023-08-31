@@ -4,6 +4,7 @@ namespace App\Http\Resources;
 
 use Illuminate\Http\Resources\Json\JsonResource;
 
+// * -------------------------------------------------------------------*//
 class UserCalendarResource extends JsonResource
 {
   /**
@@ -24,3 +25,4 @@ class UserCalendarResource extends JsonResource
     ];
   }
 }
+// * -------------------------------------------------------------------*//

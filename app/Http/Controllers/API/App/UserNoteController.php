@@ -11,6 +11,7 @@ use Validator;
 use Illuminate\Support\Facades\Auth;
 use Carbon\Carbon;
 
+// * -------------------------------------------------------------------*//
 class UserNoteController extends BaseController
 {
   /**
@@ -65,3 +66,4 @@ class UserNoteController extends BaseController
     return $this->sendResponse(new UserNoteResource($userNote), 'User notes set successfully.');
   }
 }
+// * -------------------------------------------------------------------*//

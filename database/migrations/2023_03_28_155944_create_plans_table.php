@@ -6,6 +6,7 @@ use Illuminate\Support\Facades\Schema;
 
 use App\Models\Plan;
 
+// * -------------------------------------------------------------------*//
 return new class extends Migration
 {
   /**
@@ -850,3 +851,4 @@ harika formda kalın'
     Schema::dropIfExists('plans');
   }
 };
+// * -------------------------------------------------------------------*//

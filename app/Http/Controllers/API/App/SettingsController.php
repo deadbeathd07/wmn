@@ -10,7 +10,7 @@ use Illuminate\Support\Facades\Auth;
 use Validator;
 
 
-
+// * -------------------------------------------------------------------*//
 class SettingsController extends BaseController
 {
   /**
@@ -142,3 +142,4 @@ class SettingsController extends BaseController
     return response()->json($result, 200);
   }
 }
+// * -------------------------------------------------------------------*//

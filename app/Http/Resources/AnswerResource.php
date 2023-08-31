@@ -4,6 +4,7 @@ namespace App\Http\Resources;
 
 use Illuminate\Http\Resources\Json\JsonResource;
 
+// * -------------------------------------------------------------------*//
 class AnswerResource extends JsonResource
 {
   /**
@@ -26,4 +27,4 @@ class AnswerResource extends JsonResource
       'updated_at' => $this->updated_at,
     ];
   }
-}
+}// * -------------------------------------------------------------------*//

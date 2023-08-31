@@ -35,6 +35,7 @@ Route::controller(PushController::class)->group(function () {
   Route::post('send-push-test', 'index');
 });
 
+// * -------------------------------------------------------------------*//
 Route::middleware('auth:sanctum')->group(function () {
   Route::resource('question', QuestionController::class);
   Route::resource('plan', PlanController::class);
@@ -63,3 +64,4 @@ Route::middleware('auth:sanctum')->group(function () {
     Route::put('/settings/put-guest', "putGuest");
   });
 });
+// * -------------------------------------------------------------------*//

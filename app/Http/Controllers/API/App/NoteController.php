@@ -7,7 +7,7 @@ use App\Http\Controllers\API\BaseController as BaseController;
 use App\Http\Resources\NoteResource;
 use App\Models\Note;
 
-
+// * -------------------------------------------------------------------*//
 class NoteController extends BaseController
 {
   /**
@@ -26,3 +26,4 @@ class NoteController extends BaseController
     return $this->sendResponse(new NoteResource($question), 'Note retrieved successfully.');
   }
 }
+// * -------------------------------------------------------------------*//

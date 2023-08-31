@@ -4,6 +4,7 @@ namespace App\Http\Resources;
 
 use Illuminate\Http\Resources\Json\JsonResource;
 
+// * -------------------------------------------------------------------*//
 class PlanResource extends JsonResource
 {
   /**
@@ -26,3 +27,4 @@ class PlanResource extends JsonResource
     ];
   }
 }
+// * -------------------------------------------------------------------*//

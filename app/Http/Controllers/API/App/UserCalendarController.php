@@ -9,6 +9,7 @@ use Illuminate\Support\Facades\Auth;
 use Illuminate\Http\Request;
 use Carbon\Carbon;
 
+// * -------------------------------------------------------------------*//
 class UserCalendarController extends BaseController
 {
   /**
@@ -74,3 +75,4 @@ class UserCalendarController extends BaseController
     return response()->json('Calendar updated successfully.', 200);
   }
 }
+// * -------------------------------------------------------------------*//

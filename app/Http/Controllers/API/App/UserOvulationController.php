@@ -9,6 +9,7 @@ use Illuminate\Support\Facades\Auth;
 use Illuminate\Http\Request;
 use Carbon\Carbon;
 
+// * -------------------------------------------------------------------*//
 class UserOvulationController extends BaseController
 {
   /**
@@ -72,3 +73,4 @@ class UserOvulationController extends BaseController
     return response()->json('Ovulation updated successfully.', 200);
   }
 }
+// * -------------------------------------------------------------------*//

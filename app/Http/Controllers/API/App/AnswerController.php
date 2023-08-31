@@ -53,6 +53,7 @@ class AnswerController extends BaseController
     }
     $user = Auth::user();
 
+    // * -------------------------------------------------------------------*//
     //Set user responses to user_past_period_tables
     //as start period
     $userAnswer = UserAnswer::where("user_id", $user->id)->first();
@@ -65,11 +66,13 @@ class AnswerController extends BaseController
     $userAnswer->duration_cycle_last = $input['duration_cycle_last'];
     $userAnswer->name = $input['name'];
     $userAnswer->birth_date = $input['birth_date'];
+    // * -------------------------------------------------------------------*//
     $userAnswer->save();
 
     return $this->sendResponse(new AnswerResource($userAnswer), 'Answer set successfully.');
   }
 
+  // * -------------------------------------------------------------------*//
   /**
    * Update the specified resource in storage.
    *
@@ -105,4 +108,5 @@ class AnswerController extends BaseController
 
     return $this->sendResponse($userAnswer, 'Answer updated successfully.');
   }
+  // * -------------------------------------------------------------------*//
 }

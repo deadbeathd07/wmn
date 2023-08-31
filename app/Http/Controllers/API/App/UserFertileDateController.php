@@ -9,6 +9,7 @@ use Illuminate\Support\Facades\Auth;
 use Illuminate\Http\Request;
 use Carbon\Carbon;
 
+// * -------------------------------------------------------------------*//
 class UserFertileDateController extends BaseController
 {
   /**
@@ -72,3 +73,4 @@ class UserFertileDateController extends BaseController
     return response()->json('Fertile date updated successfully.', 200);
   }
 }
+// * -------------------------------------------------------------------*//
