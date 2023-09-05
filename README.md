@@ -83,3 +83,4 @@ npm run serve
 ## Future improvements and updates:
 - dark theme debugging
 - development of sending push notifications from the server to the system
+- connecting the ability to sign in using Google and Apple accounts
