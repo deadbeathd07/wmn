@@ -4,11 +4,7 @@
 <template>
     <van-overlay :show="show">
         <div class="flex items-center justify-center h-full">
-            <van-loading
-                :color="theme == 'dark' ? '#059669' : '#E52C4B'"
-                size="60"
-                type="spinner"
-            />
+            <van-loading color="#7345C4" size="60" type="spinner" />
         </div>
     </van-overlay>
 </template>
