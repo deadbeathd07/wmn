@@ -36,8 +36,8 @@ const theme = computed(() => store.state.Auth.theme);
 
 // // This authData and authentificate of it below are necessary for entry in browser (for developing)
 let authData = {
-    uid: "kjsdhfkjsdfsfsfdsdfshdf ksdkjf",
-    firebase_token: ";osdhffsdhf",
+    uid: "kjsdhfkjsdl37437fsfsfdsdfshdfksdkjf",
+    firebase_token: ";hjjs",
     theme_mode: "light",
     lang: "en",
     google_id_token: "",
